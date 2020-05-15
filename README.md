@@ -35,5 +35,5 @@ apt-get -y install php openssh git wget
 ```
 git clone https://github.com/autrixarnet/camphish
 cd camphish
-bash camphish.sh
+./camphish.sh
 ```
