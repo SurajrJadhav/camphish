@@ -39,3 +39,5 @@ chmod 777 camphish.sh
 ./camphish.sh
 ```
 ## Use of camphish
+Watch full video on
+https://youtu.be/scfsYE4WufE
